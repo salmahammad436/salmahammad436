@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Salma
+-  I’m Salma
 - 👀 I’m interested in MEA/RN stack
 - 🌱 I’m currently learning [Nextjs]
 - 💞️ I’m looking to collaborate on projects related to web development and MEA/RN stack technologies
